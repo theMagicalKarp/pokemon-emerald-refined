@@ -63,7 +63,7 @@ else
   CPP := $(PREFIX)cpp
 endif
 
-ROM_NAME := pokeemerald.gba
+ROM_NAME := pokemon_emerald_refined.gba
 ELF_NAME := $(ROM_NAME:.gba=.elf)
 MAP_NAME := $(ROM_NAME:.gba=.map)
 OBJ_DIR_NAME := build/emerald
