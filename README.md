@@ -36,7 +36,7 @@ a fun and engaging experience.
 While various features might enhance subsequent Pokémon titles, the project has
 chosen to maintain the original charm of Gen 3 with the following decisions.
 
-These decision ensures that long-time fans can relive their cherished memories
+These decisions ensure that long-time fans can relive their cherished memories
 while also introducing newer generations to the gameplay that defined this era
 of Pokémon games. Additionally, we've focused on refining gameplay mechanics
 that resonate with the core essence of Gen 3, such as the iconic Pokémon
