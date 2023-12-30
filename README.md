@@ -38,6 +38,10 @@ a fun and engaging experience.
   - By removing movement restrictions indoors, players can navigate
     environments swiftly, ensuring that transitions between indoor and outdoor
     settings are seamless and maintain a brisk pace.
+- Increase Item Bag Size from 30 to 120
+  - This increase not only allows players to carry more items but also reduces
+    the frequency of having to manage and shuffle items between the bag and
+    storage. Consequently, players can focus more on exploring and battling.
 
 ## What Remains Unchanged
 
