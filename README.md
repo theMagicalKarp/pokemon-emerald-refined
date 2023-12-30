@@ -11,11 +11,10 @@ _gameplay_ elements while retaining the nostalgic essence of the original game.
 While doing so, the project aims to be meticulous in preserving the sentimental
 quality of the original game, ensuring that long-time fans and newcomers alike
 can appreciate the journey. By introducing minor **quality of life
-improvements**, opportunity for **increased challenge**, and **combat
-balances** the ROM Hack aims to strike a balance between honoring the classic
-gameplay and offering new experiences. This meticulous blend ensures that
-players will encounter familiar moments intertwined with fun and exciting new
-challenges.
+improvements**, opportunity for **increased challenge**, and **combat balances**
+the ROM Hack aims to strike a balance between honoring the classic gameplay and
+offering new experiences. This meticulous blend ensures that players will
+encounter familiar moments intertwined with fun and exciting new challenges.
 
 ## Changes Made
 
@@ -24,8 +23,8 @@ the gameplay experience. By analyzing various components and aspects of the game
 design, the project has pinpointed areas that might be superfluous or detract
 from the core gaming experience.
 
-The aim is to refine and optimize the game's design, ensuring that players receive
-a fun and engaging experience.
+The aim is to refine and optimize the game's design, ensuring that players
+receive a fun and engaging experience.
 
 - Display [Nature Stat Modifiers] in the Pokémon Summary
   - Frequently, it's frustrating to have to remember or look up natures to
@@ -35,13 +34,21 @@ a fun and engaging experience.
     streamlining the gameplay experience and empowering players with essential
     information at their fingertips.
 - Allow running indoors
-  - By removing movement restrictions indoors, players can navigate
-    environments swiftly, ensuring that transitions between indoor and outdoor
-    settings are seamless and maintain a brisk pace.
+  - By removing movement restrictions indoors, players can navigate environments
+    swiftly, ensuring that transitions between indoor and outdoor settings are
+    seamless and maintain a brisk pace.
 - Increase Item Bag Size from 30 to 120
   - This increase not only allows players to carry more items but also reduces
     the frequency of having to manage and shuffle items between the bag and
     storage. Consequently, players can focus more on exploring and battling.
+- Adjust Damage Calculatation for Dark/Ghost Type Moves
+  - The calculation for Ghost-type moves now utilizes special stats rather than
+    physical ones. Historically, Ghost Pokémon in earlier generations were
+    designed around dealing special damage. This adjustment aims to enhance
+    their effectiveness and overall enjoyment in battles.
+  - Conversely, Dark-type moves now factor in physical stats instead of special
+    ones. Given that Dark-type Pokémon typically excel as physical attackers,
+    this change aligns more closely with their inherent strengths.
 
 ## What Remains Unchanged
 
@@ -72,7 +79,7 @@ community. For further information about pret and additional projects, visit
 [pret.github.io].
 
 > [!NOTE]
-> [**pokeemerald.gba**](https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=1961) `sha1: f3ae088181bf583e55daf962a92bb46f4f1d07b7`
+> Decompilation Target: [**pokeemerald.gba**](https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=1961) `sha1: f3ae088181bf583e55daf962a92bb46f4f1d07b7`
 
 [Decompilation]: https://en.wikipedia.org/wiki/Decompiler
 [Pokémon Emerald]: https://en.wikipedia.org/wiki/Pok%C3%A9mon_Emerald
