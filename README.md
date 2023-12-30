@@ -30,6 +30,10 @@ a fun and engaging experience.
 - Display [Nature Stat Modifiers] in the Pokémon Summary
   - Frequently, it's frustrating to have to remember or look up natures to
     determine how a Pokémon's stats will be affected.
+- Display [EV/IV Values] in the Pokémon Summary
+  - This feature eliminates the need for tedious tools or resources,
+    streamlining the gameplay experience and empowering players with essential
+    information at their fingertips.
 
 ## What Remains Unchanged
 
@@ -69,3 +73,4 @@ community. For further information about pret and additional projects, visit
 [pret]: https://github.com/pret
 [pret.github.io]: https://pret.github.io/
 [Nature Stat Modifiers]: https://bulbapedia.bulbagarden.net/wiki/Nature#List_of_Natures
+[EV/IV Values]: https://www.smogon.com/ingame/guides/evs_ivs
