@@ -34,6 +34,10 @@ a fun and engaging experience.
   - This feature eliminates the need for tedious tools or resources,
     streamlining the gameplay experience and empowering players with essential
     information at their fingertips.
+- Allow running indoors
+  - By removing movement restrictions indoors, players can navigate
+    environments swiftly, ensuring that transitions between indoor and outdoor
+    settings are seamless and maintain a brisk pace.
 
 ## What Remains Unchanged
 
