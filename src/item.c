@@ -569,19 +569,6 @@ void CompactPCItems(void)
     }
 }
 
-void SwapRegisteredBike(void)
-{
-    switch (gSaveBlock1Ptr->registeredItem)
-    {
-    case ITEM_MACH_BIKE:
-        gSaveBlock1Ptr->registeredItem = ITEM_ACRO_BIKE;
-        break;
-    case ITEM_ACRO_BIKE:
-        gSaveBlock1Ptr->registeredItem = ITEM_MACH_BIKE;
-        break;
-    }
-}
-
 u16 BagGetItemIdByPocketPosition(u8 pocketId, u16 pocketPos)
 {
     return gBagPockets[pocketId - 1].itemSlots[pocketPos].itemId;

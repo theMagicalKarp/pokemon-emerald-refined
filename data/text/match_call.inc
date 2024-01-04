@@ -2778,7 +2778,7 @@ MatchCall_Text_Steven1::
 	.string "Have you been to MAUVILLE\n"
 	.string "already?\p"
 	.string "You should visit the BIKE SHOP\n"
-	.string "and get a MACH BIKE.\p"
+	.string "and get a BIKE.\p"
 	.string "Then, try exploring the GRANITE\n"
 	.string "CAVE thoroughly.\p"
 	.string "You may make a new discovery\n"
