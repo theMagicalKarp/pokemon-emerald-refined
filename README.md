@@ -49,6 +49,13 @@ receive a fun and engaging experience.
   - Conversely, Dark-type moves now factor in physical stats instead of special
     ones. Given that Dark-type Pokémon typically excel as physical attackers,
     this change aligns more closely with their inherent strengths.
+- 2 in 1 Bike
+  - To minimize tedious backtracking, the features of the Mach Bike have been
+    incorporated into the Acro Bike, resulting in the removal of the Mach Bike
+    itself. To engage the speed-up feature previously associated with the Mach
+    Bike, hold the "R" button while riding the Acro Bike. This seamless
+    integration enhances navigation and streamlines the overall gameplay
+    experience.
 
 ## What Remains Unchanged
 
