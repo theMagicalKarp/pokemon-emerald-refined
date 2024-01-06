@@ -56,6 +56,11 @@ receive a fun and engaging experience.
     Bike, hold the "R" button while riding the Acro Bike. This seamless
     integration enhances navigation and streamlines the overall gameplay
     experience.
+- Speed up Tedious Interactions
+  - To streamline gameplay and minimize the time players spend on tedious
+    interactions, such as healing Pokémon at the Pokécenter, this project
+    has reduced both wait times and required player inputs for various
+    activities.
 
 ## What Remains Unchanged
 
