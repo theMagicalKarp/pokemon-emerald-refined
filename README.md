@@ -61,6 +61,11 @@ receive a fun and engaging experience.
     interactions, such as healing Pokémon at the Pokécenter, this project
     has reduced both wait times and required player inputs for various
     activities.
+- Prompt Repel Refresh
+  - Recognizing the inconvenience of frequent encounters in high-density
+    regions, when a Repel wears off, players will now receive a prompt asking
+    if they'd like to use another Repel from their bag if available. This aims
+    to increase the usability and convenience of Repels.
 
 ## What Remains Unchanged
 

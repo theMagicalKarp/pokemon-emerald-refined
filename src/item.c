@@ -884,6 +884,11 @@ u8 ItemId_GetHoldEffectParam(u16 itemId)
     return gItems[SanitizeItemId(itemId)].holdEffectParam;
 }
 
+void ItemId_GetHoldEffectParam_Script()
+{
+    VarSet(VAR_RESULT, ItemId_GetHoldEffectParam(VarGet(VAR_0x8004)));
+}
+
 const u8 *ItemId_GetDescription(u16 itemId)
 {
     return gItems[SanitizeItemId(itemId)].description;
