@@ -63,9 +63,9 @@ receive a fun and engaging experience.
     activities.
 - Ask for [Repel] Reuse After Expiration
   - Recognizing the inconvenience of frequent encounters in high-density
-    regions, when a [Repel] wears off, players will now receive a prompt asking
-    if they'd like to use another [Repel] from their bag if available. This aims
-    to increase the usability and convenience of [Repel] items.
+    regions, when a Repel wears off, players will now receive a prompt asking
+    if they'd like to use another Repel from their bag if available. This aims
+    to increase the usability and convenience of Repel items.
 
 ## What Remains Unchanged
 
