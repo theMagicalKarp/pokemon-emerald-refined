@@ -61,7 +61,7 @@ receive a fun and engaging experience.
     interactions, such as healing Pokémon at the Pokécenter, this project
     has reduced both wait times and required player inputs for various
     activities.
-- Ask for [Repel] Refresh After Expiration
+- Ask for [Repel] Reuse After Expiration
   - Recognizing the inconvenience of frequent encounters in high-density
     regions, when a [Repel] wears off, players will now receive a prompt asking
     if they'd like to use another [Repel] from their bag if available. This aims
