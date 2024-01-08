@@ -58,14 +58,19 @@ receive a fun and engaging experience.
     experience.
 - Speed up Tedious Interactions
   - To streamline gameplay and minimize the time players spend on tedious
-    interactions, such as healing Pokémon at the Pokécenter, this project
-    has reduced both wait times and required player inputs for various
-    activities.
+    interactions, such as healing Pokémon at the Pokécenter, this project has
+    reduced both wait times and required player inputs for various activities.
 - Ask for [Repel] Reuse After Expiration
   - Recognizing the inconvenience of frequent encounters in high-density
-    regions, when a Repel wears off, players will now receive a prompt asking
-    if they'd like to use another Repel from their bag if available. This aims
-    to increase the usability and convenience of Repel items.
+    regions, when a Repel wears off, players will now receive a prompt asking if
+    they'd like to use another Repel from their bag if available. This aims to
+    increase the usability and convenience of Repel items.
+- Allow other options for [trade evolutions]
+  - To remove the necessity of locking certain Pokémon behind requiring multiple
+    games, alternative methods or conditions for trade evolutions will be
+    introduced. This ensures that players have more flexibility in evolving
+    their Pokémon without being constrained by game availability or trading with
+    others.
 
 ## What Remains Unchanged
 
@@ -107,3 +112,4 @@ community. For further information about pret and additional projects, visit
 [Nature Stat Modifiers]: https://bulbapedia.bulbagarden.net/wiki/Nature#List_of_Natures
 [EV/IV Values]: https://www.smogon.com/ingame/guides/evs_ivs
 [Repel]: https://bulbapedia.bulbagarden.net/wiki/Repel
+[trade evolutions]: https://bulbapedia.bulbagarden.net/wiki/Trade#Pok.C3.A9mon_that_evolve_when_traded
