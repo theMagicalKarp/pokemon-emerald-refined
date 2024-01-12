@@ -1,4 +1,4 @@
-# Pokémon Emerald Refined
+# Pokémon Emerald Refined (WIP)
 
 <img align="right" src="./docs/assets/emerald.png" height="200px" alt="refined-logo">
 
