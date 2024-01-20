@@ -33,6 +33,11 @@ receive a fun and engaging experience.
   - This feature eliminates the need for tedious tools or resources,
     streamlining the gameplay experience and empowering players with essential
     information at their fingertips.
+- Display Pokémon movesets/base stats in the Pokédex
+  - This enhancement eliminates the necessity of playing the game and searching
+    for information on third-party data sources. It provides players with
+    convenient in-game access to comprehensive details, enhancing their overall
+    experience.
 - Allow running indoors
   - By removing movement restrictions indoors, players can navigate environments
     swiftly, ensuring that transitions between indoor and outdoor settings are

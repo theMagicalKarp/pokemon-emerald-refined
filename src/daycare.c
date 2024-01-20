@@ -628,6 +628,37 @@ static u8 GetEggMoves(struct Pokemon *pokemon, u16 *eggMoves)
 
     return numEggMoves;
 }
+u8 GetEggMovesSpecies(u16 species, u16 *eggMoves)
+{
+    u16 eggMoveIdx;
+    u16 numEggMoves;
+    u16 i;
+
+    numEggMoves = 0;
+    eggMoveIdx = 0;
+    for (i = 0; i < ARRAY_COUNT(gEggMoves) - 1; i++)
+    {
+        if (gEggMoves[i] == species + EGG_MOVES_SPECIES_OFFSET)
+        {
+            eggMoveIdx = i + 1;
+            break;
+        }
+    }
+
+    for (i = 0; i < EGG_MOVES_ARRAY_COUNT; i++)
+    {
+        if (gEggMoves[eggMoveIdx + i] > EGG_MOVES_SPECIES_OFFSET)
+        {
+            // TODO: the curly braces around this if statement are required for a matching build.
+            break;
+        }
+
+        eggMoves[i] = gEggMoves[eggMoveIdx + i];
+        numEggMoves++;
+    }
+
+    return numEggMoves;
+}
 
 static void BuildEggMoveset(struct Pokemon *egg, struct BoxPokemon *father, struct BoxPokemon *mother)
 {

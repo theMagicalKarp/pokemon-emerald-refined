@@ -3026,4 +3026,99 @@ extern const u8 gText_BoxName[];
 extern const u8 gText_PkmnsNickname[];
 extern const u8 gText_TellHimTheWords[];
 
+// ============================================================================
+// POKéDEX strings
+// ============================================================================
+
+extern const u8 gText_Stats_HP[];
+extern const u8 gText_Stats_Attack[];
+extern const u8 gText_Stats_Defense[];
+extern const u8 gText_Stats_Speed[];
+extern const u8 gText_Stats_SpAttack[];
+extern const u8 gText_Stats_SpDefense[];
+extern const u8 gText_Move_PP[];
+
+extern const u8 gText_Move_Level[];
+extern const u8 gText_Move_Egg[];
+extern const u8 gText_Move_Tutor[];
+
+extern const u8 gText_Stats_EV_Plus1[];
+extern const u8 gText_Stats_EV_Plus2[];
+extern const u8 gText_Stats_EV_Plus3[];
+extern const u8 gText_Stats_EvStr1Str2[];
+
+extern const u8 gText_Stats_CatchRate[];
+extern const u8 gText_Stats_CatchRate_Legend[];
+extern const u8 gText_Stats_CatchRate_VeryHard[];
+extern const u8 gText_Stats_CatchRate_Difficult[];
+extern const u8 gText_Stats_CatchRate_Medium[];
+extern const u8 gText_Stats_CatchRate_Relaxed[];
+extern const u8 gText_Stats_CatchRate_Easy[];
+
+extern const u8 gText_Stats_Growthrate[];
+extern const u8 gText_Stats_MEDIUM_FAST[];
+extern const u8 gText_Stats_ERRATIC[];
+extern const u8 gText_Stats_FLUCTUATING[];
+extern const u8 gText_Stats_MEDIUM_SLOW[];
+extern const u8 gText_Stats_FAST[];
+extern const u8 gText_Stats_SLOW[];
+
+extern const u8 gText_Stats_eggGroup[];
+extern const u8 gText_Stats_eggGroup_Groups[];
+extern const u8 gText_Stats_eggGroup_MONSTER[];
+extern const u8 gText_Stats_eggGroup_WATER_1[];
+extern const u8 gText_Stats_eggGroup_BUG[];
+extern const u8 gText_Stats_eggGroup_FLYING[];
+extern const u8 gText_Stats_eggGroup_FIELD[];
+extern const u8 gText_Stats_eggGroup_FAIRY[];
+extern const u8 gText_Stats_eggGroup_GRASS[];
+extern const u8 gText_Stats_eggGroup_HUMAN_LIKE[];
+extern const u8 gText_Stats_eggGroup_WATER_3[];
+extern const u8 gText_Stats_eggGroup_MINERAL[];
+extern const u8 gText_Stats_eggGroup_AMORPHOUS[];
+extern const u8 gText_Stats_eggGroup_WATER_2[];
+extern const u8 gText_Stats_eggGroup_DITTO[];
+extern const u8 gText_Stats_eggGroup_DRAGON[];
+
+extern const u8 gText_BASE_STATS[];
+extern const u8 gText_ABILITIES[];
+extern const u8 gText_MISC[];
+extern const u8 gText_EVOLUTIONS[];
+
+extern const u8 gText_EVO_FRIENDSHIP[];
+extern const u8 gText_EVO_FRIENDSHIP_DAY[];
+extern const u8 gText_EVO_FRIENDSHIP_NIGHT[];
+extern const u8 gText_EVO_LEVEL[];
+extern const u8 gText_EVO_TRADE[];
+extern const u8 gText_EVO_TRADE_ITEM[];
+extern const u8 gText_EVO_ITEM[];
+extern const u8 gText_EVO_LEVEL_ATK_GT_DEF[];
+extern const u8 gText_EVO_LEVEL_ATK_EQ_DEF[];
+extern const u8 gText_EVO_LEVEL_ATK_LT_DEF[];
+extern const u8 gText_EVO_LEVEL_SILCOON[];
+extern const u8 gText_EVO_LEVEL_CASCOON[];
+extern const u8 gText_EVO_LEVEL_NINJASK[];
+extern const u8 gText_EVO_LEVEL_SHEDINJA[];
+extern const u8 gText_EVO_BEAUTY[];
+extern const u8 gText_EVO_LEVEL_FEMALE[];
+extern const u8 gText_EVO_LEVEL_MALE[];
+extern const u8 gText_EVO_LEVEL_NIGHT[];
+extern const u8 gText_EVO_LEVEL_DAY[];
+extern const u8 gText_EVO_LEVEL_DUSK[];
+extern const u8 gText_EVO_ITEM_HOLD_DAY[];
+extern const u8 gText_EVO_ITEM_HOLD_NIGHT[];
+extern const u8 gText_EVO_MOVE[];
+extern const u8 gText_EVO_MOVE_TYPE[];
+extern const u8 gText_EVO_MAPSEC[];
+extern const u8 gText_EVO_ITEM_MALE[];
+extern const u8 gText_EVO_ITEM_FEMALE[];
+extern const u8 gText_EVO_LEVEL_RAIN[];
+extern const u8 gText_EVO_SPECIFIC_MON_IN_PARTY[];
+extern const u8 gText_EVO_LEVEL_DARK_TYPE_MON_IN_PARTY[];
+extern const u8 gText_EVO_TRADE_SPECIFIC_MON[];
+extern const u8 gText_EVO_SPECIFIC_MAP[];
+extern const u8 gText_EVO_UNKNOWN[];
+extern const u8 gText_EVO_NONE[];
+extern const u8 gText_EVO_NA[];
+
 #endif // GUARD_STRINGS_H

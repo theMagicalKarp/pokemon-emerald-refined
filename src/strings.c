@@ -1819,3 +1819,98 @@ const u8 gText_Answer[] = _("ANSWER");
 const u8 gText_PokeBalls[] = _("POKé BALLS");
 const u8 gText_Berry[] = _("BERRY");
 const u8 gText_Berries[] = _("BERRIES");
+
+// ============================================================================
+// POKéDEX strings
+// ============================================================================
+
+const u8 gText_Stats_HP[]       = _("HP");
+const u8 gText_Stats_Attack[]   = _("ATK");
+const u8 gText_Stats_Defense[]  = _("DEF");
+const u8 gText_Stats_Speed[]    = _("SPE");
+const u8 gText_Stats_SpAttack[]    = _("SP.A");
+const u8 gText_Stats_SpDefense[]    = _("SP.D");
+const u8 gText_Move_PP[]        = _("{PP}{DYNAMIC 0}");
+
+const u8 gText_Move_Level[]          = _("{LV} {DYNAMIC 0}");
+const u8 gText_Move_Egg[]            = _("EGG");
+const u8 gText_Move_Tutor[]          = _("TUTOR");
+
+const u8 gText_Stats_EV_Plus1[]     = _("{UP_ARROW_2}");
+const u8 gText_Stats_EV_Plus2[]     = _("{UP_ARROW_2}{UP_ARROW_2}");
+const u8 gText_Stats_EV_Plus3[]     = _("{UP_ARROW_2}{UP_ARROW_2}{UP_ARROW_2}");
+const u8 gText_Stats_EvStr1Str2[]   = _("{STR_VAR_1}{STR_VAR_2}");
+
+const u8 gText_Stats_CatchRate[]     = _("CATCH{0x5B}");
+const u8 gText_Stats_CatchRate_Legend[]         = _("LEGENDARY");
+const u8 gText_Stats_CatchRate_VeryHard[]       = _("VERY HARD");
+const u8 gText_Stats_CatchRate_Difficult[]      = _("DIFFICULT");
+const u8 gText_Stats_CatchRate_Medium[]         = _("MEDIUM");
+const u8 gText_Stats_CatchRate_Relaxed[]        = _("RELAXED");
+const u8 gText_Stats_CatchRate_Easy[]           = _("EASY");
+
+const u8 gText_Stats_Growthrate[]    = _("GROW");
+const u8 gText_Stats_MEDIUM_FAST[]   = _("MED. FAST");
+const u8 gText_Stats_ERRATIC[]       = _("ERRATIC");
+const u8 gText_Stats_FLUCTUATING[]   = _("FLUCTUATING");
+const u8 gText_Stats_MEDIUM_SLOW[]   = _("MED. SLOW");
+const u8 gText_Stats_FAST[]          = _("FAST");
+const u8 gText_Stats_SLOW[]          = _("SLOW");
+
+const u8 gText_Stats_eggGroup[]             = _("EGG");
+const u8 gText_Stats_eggGroup_Groups[]      = _("{STR_VAR_1}/{STR_VAR_2}");
+const u8 gText_Stats_eggGroup_MONSTER[]     = _("MONSTER");
+const u8 gText_Stats_eggGroup_WATER_1[]     = _("WATER {CIRCLE_1}");
+const u8 gText_Stats_eggGroup_BUG[]         = _("BUG");
+const u8 gText_Stats_eggGroup_FLYING[]      = _("FLYING");
+const u8 gText_Stats_eggGroup_FIELD[]       = _("FIELD");
+const u8 gText_Stats_eggGroup_FAIRY[]       = _("FAIRY");
+const u8 gText_Stats_eggGroup_GRASS[]       = _("GRASS");
+const u8 gText_Stats_eggGroup_HUMAN_LIKE[]  = _("HUMANE");
+const u8 gText_Stats_eggGroup_WATER_3[]     = _("WATER {CIRCLE_3}");
+const u8 gText_Stats_eggGroup_MINERAL[]     = _("MINERAL");
+const u8 gText_Stats_eggGroup_AMORPHOUS[]   = _("AMORPHOUS");
+const u8 gText_Stats_eggGroup_WATER_2[]     = _("WATER {CIRCLE_2}");
+const u8 gText_Stats_eggGroup_DITTO[]       = _("DITTO");
+const u8 gText_Stats_eggGroup_DRAGON[]      = _("DRAGON");
+
+const u8 gText_BASE_STATS[]= _("BASE STATS");
+const u8 gText_ABILITIES[]= _("ABILITIES");
+const u8 gText_MISC[]= _("MISC");
+const u8 gText_EVOLUTIONS[]= _("EVOLUTIONS");
+
+const u8 gText_EVO_FRIENDSHIP[]                     = _("LvlUp, high friendship");
+const u8 gText_EVO_FRIENDSHIP_DAY[]                 = _("LvlUp, high friendship, day");
+const u8 gText_EVO_FRIENDSHIP_NIGHT[]               = _("Lvlup, high friendship, night");
+const u8 gText_EVO_LEVEL[]                          = _("LvlUp to {STR_VAR_2}");
+const u8 gText_EVO_TRADE[]                          = _("Trading");
+const u8 gText_EVO_TRADE_ITEM[]                     = _("Trading, holding {STR_VAR_2}");
+const u8 gText_EVO_ITEM[]                           = _("{STR_VAR_2} is used");
+const u8 gText_EVO_LEVEL_ATK_GT_DEF[]               = _("LvlUp to {STR_VAR_2}, Atk > Def");
+const u8 gText_EVO_LEVEL_ATK_EQ_DEF[]               = _("LvlUp to {STR_VAR_2}, Atk = Def");
+const u8 gText_EVO_LEVEL_ATK_LT_DEF[]               = _("LvlUp to {STR_VAR_2}, Atk < Def");
+const u8 gText_EVO_LEVEL_SILCOON[]                  = _("LvlUp to {STR_VAR_2}, Silcoon persona");
+const u8 gText_EVO_LEVEL_CASCOON[]                  = _("LvlUp to {STR_VAR_2}, Cascoon persona");
+const u8 gText_EVO_LEVEL_NINJASK[]                  = _("LvlUp to {STR_VAR_2}");
+const u8 gText_EVO_LEVEL_SHEDINJA[]                 = _("LvlUp to {STR_VAR_2}, party<6, 1x POKéBALL");
+const u8 gText_EVO_BEAUTY[]                         = _("LvlUp, high beauty");
+const u8 gText_EVO_LEVEL_FEMALE[]                   = _("LvlUp to {STR_VAR_2}, is female");
+const u8 gText_EVO_LEVEL_MALE[]                     = _("LvlUp to {STR_VAR_2}, is male");
+const u8 gText_EVO_LEVEL_NIGHT[]                    = _("LvlUp to {STR_VAR_2}, night");
+const u8 gText_EVO_LEVEL_DAY[]                      = _("LvlUp to {STR_VAR_2}, day");
+const u8 gText_EVO_LEVEL_DUSK[]                     = _("LvlUp to {STR_VAR_2}, dusk (5-6PM)");
+const u8 gText_EVO_ITEM_HOLD_DAY[]                  = _("LvlUp, holds {STR_VAR_2}, day");
+const u8 gText_EVO_ITEM_HOLD_NIGHT[]                = _("LvlUp, holds {STR_VAR_2}, night");
+const u8 gText_EVO_MOVE[]                           = _("LvlUp, knows {STR_VAR_2}");
+const u8 gText_EVO_MOVE_TYPE[]                      = _("LvlUp, knows {STR_VAR_2} move");
+const u8 gText_EVO_MAPSEC[]                         = _("LvlUp on {STR_VAR_2}");
+const u8 gText_EVO_ITEM_MALE[]                      = _("{STR_VAR_2} used on male");
+const u8 gText_EVO_ITEM_FEMALE[]                    = _("{STR_VAR_2} used on female");
+const u8 gText_EVO_LEVEL_RAIN[]                     = _("LvlUp to {STR_VAR_2} while raining");
+const u8 gText_EVO_SPECIFIC_MON_IN_PARTY[]          = _("LvlUp with {STR_VAR_2} in party");
+const u8 gText_EVO_LEVEL_DARK_TYPE_MON_IN_PARTY[]   = _("LvlUp with dark type in party");
+const u8 gText_EVO_TRADE_SPECIFIC_MON[]             = _("Traded for {STR_VAR_2}");
+const u8 gText_EVO_SPECIFIC_MAP[]                   = _("LvlUp on {STR_VAR_2}");
+const u8 gText_EVO_UNKNOWN[]                        = _("Method unknown");
+const u8 gText_EVO_NONE[]                           = _("{STR_VAR_1} has no evolution.");
+const u8 gText_EVO_NA[]                             = _("N/A");
