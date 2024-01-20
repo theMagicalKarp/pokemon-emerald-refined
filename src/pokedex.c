@@ -264,7 +264,6 @@ struct PokedexView
 
     struct PokemonStats sPokemonStats;
     u8 typeIconSpriteIds[TOTAL_MOVE_SPRITES];
-    u8 numPreEvolutions;
     u8 numLevelUpMoves;
     u8 numTMHMMoves;
     u8 numEggMoves;
