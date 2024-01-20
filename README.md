@@ -76,6 +76,10 @@ receive a fun and engaging experience.
     introduced. This ensures that players have more flexibility in evolving
     their Pokémon without being constrained by game availability or trading with
     others.
+- Remove Timings on Fishing
+  - To help remove the tedious mini-game and streamline fishing for Pokémon,
+    the project has removed specific timings, providing players with a smoother
+    fishing experience.
 
 ## What Remains Unchanged
 
