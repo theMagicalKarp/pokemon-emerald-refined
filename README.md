@@ -80,6 +80,10 @@ receive a fun and engaging experience.
   - To help remove the tedious mini-game and streamline fishing for Pokémon,
     the project has removed specific timings, providing players with a smoother
     fishing experience.
+- Update Summary and Battle UI to Display "Hidden Power" Power and Type
+  - Players can now easily view the power and type of the "Hidden Power" move
+    in both the Pokémon Summary and Battle UI, enhancing strategic
+    decision-making during battles and team building.
 
 ## What Remains Unchanged
 
