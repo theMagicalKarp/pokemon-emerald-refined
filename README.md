@@ -33,6 +33,12 @@ receive a fun and engaging experience.
   - This feature eliminates the need for tedious tools or resources,
     streamlining the gameplay experience and empowering players with essential
     information at their fingertips.
+- Update Pokémon Move Viability
+  - In an effort to enhance the enjoyment and viability of all Pokémon, we have
+    reviewed and adjusted the Power, Accuracy, Typing, PP, and even secondary
+    effects of each move. This revision ensures that a greater number of Pokémon
+    can be deemed viable for various runs, offering a broader array of options
+    when constructing teams.
 - Display Pokémon movesets/base stats in the Pokédex
   - This enhancement eliminates the necessity of playing the game and searching
     for information on third-party data sources. It provides players with
@@ -77,13 +83,13 @@ receive a fun and engaging experience.
     their Pokémon without being constrained by game availability or trading with
     others.
 - Remove Timings on Fishing
-  - To help remove the tedious mini-game and streamline fishing for Pokémon,
-    the project has removed specific timings, providing players with a smoother
+  - To help remove the tedious mini-game and streamline fishing for Pokémon, the
+    project has removed specific timings, providing players with a smoother
     fishing experience.
 - Update Summary and Battle UI to Display "Hidden Power" Power and Type
-  - Players can now easily view the power and type of the "Hidden Power" move
-    in both the Pokémon Summary and Battle UI, enhancing strategic
-    decision-making during battles and team building.
+  - Players can now easily view the power and type of the "Hidden Power" move in
+    both the Pokémon Summary and Battle UI, enhancing strategic decision-making
+    during battles and team building.
 
 ## What Remains Unchanged
 
