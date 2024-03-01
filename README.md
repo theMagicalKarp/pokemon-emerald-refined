@@ -90,6 +90,8 @@ receive a fun and engaging experience.
   - Players can now easily view the power and type of the "Hidden Power" move in
     both the Pokémon Summary and Battle UI, enhancing strategic decision-making
     during battles and team building.
+- Update In-Game Trades
+  - Modify/Add In-Game Trades to provide more unique Pokémon.
 
 ## What Remains Unchanged
 
